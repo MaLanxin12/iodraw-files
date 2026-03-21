@@ -77,8 +77,8 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="448" width="60" height="30" as="geometry" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="448" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
