@@ -65,9 +65,6 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-15" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="100" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="62fZEcuVHlO0WXRbgXgz-21" value="自注意力网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-15" vertex="1">
-          <mxGeometry y="200" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="270" width="370" height="260" as="geometry" />
         </mxCell>
@@ -84,6 +81,9 @@
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-20" value="动态调整β，自适应修正采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
           <mxGeometry x="210" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="62fZEcuVHlO0WXRbgXgz-21" value="自注意力网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="110" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="70" height="30" as="geometry" />
