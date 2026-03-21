@@ -77,11 +77,13 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="270" width="410" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
-          <mxGeometry x="180" y="-10" width="230" height="210" as="geometry" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
+          <mxGeometry x="40" y="170" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-16">
-          <mxGeometry x="40" y="180" width="130" height="30" as="geometry" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="230" height="140" as="geometry">
+            <mxRectangle x="510" y="520" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
