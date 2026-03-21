@@ -40,7 +40,13 @@
           <mxGeometry x="370" y="308" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5H7QiD2C4g63JcIbzcFb-6" target="62fZEcuVHlO0WXRbgXgz-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="337" />
+              <mxPoint x="800" y="200" />
+              <mxPoint x="485" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;归一化，修正梯度&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="710" y="287.5" width="40" height="98" as="geometry" />
