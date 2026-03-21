@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新样本优先级&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-16">
-          <mxGeometry y="9" width="40" height="92" as="geometry" />
+          <mxGeometry y="-9" width="40" height="92" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-20" value="动态调整β，自适应修正采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
           <mxGeometry x="210" y="125" width="170" height="30" as="geometry" />
