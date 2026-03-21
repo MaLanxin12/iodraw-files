@@ -36,8 +36,8 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-5" value="预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="308" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新样本优先级&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="610" y="298" width="40" height="98" as="geometry" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新样本优先级&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="287.5" width="40" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
