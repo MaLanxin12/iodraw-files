@@ -72,10 +72,10 @@
           <mxGeometry x="185" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="270" width="380" height="200" as="geometry" />
+          <mxGeometry x="440" y="270" width="380" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
-          <mxGeometry x="40" y="170" width="130" height="30" as="geometry" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error，&lt;div&gt;解决过期和降噪问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
+          <mxGeometry x="35" y="165" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;" vertex="1" parent="5H7QiD2C4g63JcIbzcFb-18">
           <mxGeometry x="170" y="9" width="110" height="135" as="geometry">
