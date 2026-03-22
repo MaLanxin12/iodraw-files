@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HxqnzcYMkI3867ZwW2Md-1" value="PER算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="90" height="50" as="geometry" />
+          <mxGeometry x="90" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HxqnzcYMkI3867ZwW2Md-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
