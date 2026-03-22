@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxqnzcYMkI3867ZwW2Md-1" value="PER算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="195" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxqnzcYMkI3867ZwW2Md-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HxqnzcYMkI3867ZwW2Md-2" target="HxqnzcYMkI3867ZwW2Md-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxqnzcYMkI3867ZwW2Md-2" value="自注意力模块+动态β" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="195" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxqnzcYMkI3867ZwW2Md-3" value="Transformer编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxqnzcYMkI3867ZwW2Md-7" value="大模型专家LLM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="229" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
