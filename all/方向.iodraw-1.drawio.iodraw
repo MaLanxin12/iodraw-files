@@ -22,9 +22,6 @@
         <mxCell id="WwhdwuprLD4GL4pLXDQy-2" value="强化学习+工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwhdwuprLD4GL4pLXDQy-3" value="&lt;ul style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); margin: 4px 0px 0px; padding-left: 18px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;尝试更复杂的算法（PPO、SAC）。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;迁移到其他环境（PyBullet、&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Mujoco）。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="260" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
