@@ -69,7 +69,7 @@
           <mxGeometry y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="215" y="35" width="60" height="135" as="geometry">
+          <mxGeometry x="215" y="33" width="65" height="135" as="geometry">
             <mxRectangle x="510" y="520" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
           <mxGeometry x="170" y="21" width="40" height="92" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-10" value="β退火、&lt;div&gt;IS权重&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="210" y="38" width="70" height="40" as="geometry" />
+          <mxGeometry x="211" y="32" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="440" width="70" height="30" as="geometry" />
