@@ -10,6 +10,9 @@
         <mxCell id="jLL9llHAaNgXkYh7gIGl-2" value="回访缓冲区Buffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jLL9llHAaNgXkYh7gIGl-3" value="回访缓冲区Buffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
