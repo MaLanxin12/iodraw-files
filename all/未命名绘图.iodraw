@@ -43,6 +43,9 @@
         <mxCell id="jLL9llHAaNgXkYh7gIGl-12" value="初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="337" y="118" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jLL9llHAaNgXkYh7gIGl-14" value="与环境交互生成四元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="344" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
