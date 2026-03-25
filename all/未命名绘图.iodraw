@@ -31,6 +31,9 @@
         <mxCell id="jLL9llHAaNgXkYh7gIGl-8" value="反向传播更新集成网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="900" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jLL9llHAaNgXkYh7gIGl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLL9llHAaNgXkYh7gIGl-9" target="jLL9llHAaNgXkYh7gIGl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jLL9llHAaNgXkYh7gIGl-9" value="mini-batch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFF5F7;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="110" height="40" as="geometry" />
         </mxCell>
