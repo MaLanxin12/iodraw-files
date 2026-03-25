@@ -33,8 +33,7 @@
             <mxPoint x="540" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="345" y="630" />
-              <mxPoint x="570" y="630" />
-              <mxPoint x="570" y="605" />
+              <mxPoint x="575" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jLL9llHAaNgXkYh7gIGl-7" value="计算分位数回归损失（QR-DQN损失）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="510" y="560" width="130" height="45" as="geometry" />
+          <mxGeometry x="510" y="550" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="jLL9llHAaNgXkYh7gIGl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLL9llHAaNgXkYh7gIGl-8" target="jLL9llHAaNgXkYh7gIGl-10">
           <mxGeometry relative="1" as="geometry">
