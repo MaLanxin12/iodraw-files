@@ -62,7 +62,7 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-15" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="280" width="110" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;strokeColor=#b7f901;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="350" height="260" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error，&lt;div&gt;解决过期和降噪问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
