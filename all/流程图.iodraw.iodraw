@@ -4,6 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;strokeColor=#01bbf9;" parent="1" vertex="1">
+          <mxGeometry x="440" y="270" width="350" height="260" as="geometry">
+            <mxRectangle x="440" y="270" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error，&lt;div&gt;解决过期和降噪问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="215" y="33" width="65" height="135" as="geometry">
+            <mxRectangle x="510" y="520" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-20" value="动态调整β，&lt;div&gt;自适应修正采样&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="210" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62fZEcuVHlO0WXRbgXgz-21" value="自注意力网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="110" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新样本优先级&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="170" y="21" width="40" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="5H7QiD2C4g63JcIbzcFb-10" value="β退火、&lt;div&gt;IS权重&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
+          <mxGeometry x="211" y="32" width="70" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="62fZEcuVHlO0WXRbgXgz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="62fZEcuVHlO0WXRbgXgz-1" target="62fZEcuVHlO0WXRbgXgz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -61,31 +86,6 @@
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-15" value="" style="swimlane;startSize=0;strokeColor=#40ccfa;" parent="1" vertex="1">
           <mxGeometry x="548" y="280" width="100" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;strokeColor=#01bbf9;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="440" y="270" width="50" height="40" as="geometry">
-            <mxRectangle x="440" y="270" width="350" height="260" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error，&lt;div&gt;解决过期和降噪问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry y="220" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="215" y="33" width="65" height="135" as="geometry">
-            <mxRectangle x="510" y="520" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-20" value="动态调整β，&lt;div&gt;自适应修正采样&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="210" y="130" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="62fZEcuVHlO0WXRbgXgz-21" value="自注意力网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="110" y="170" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新样本优先级&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="170" y="21" width="40" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-10" value="β退火、&lt;div&gt;IS权重&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="5H7QiD2C4g63JcIbzcFb-18" vertex="1">
-          <mxGeometry x="211" y="32" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="440" width="70" height="30" as="geometry" />
