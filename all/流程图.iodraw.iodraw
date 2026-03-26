@@ -66,7 +66,7 @@
           <mxGeometry x="71" y="11.05" width="40" height="92" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="386.03" width="70" height="30" as="geometry" />
+          <mxGeometry x="130" y="397.03" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="1" vertex="1">
           <mxGeometry x="660" y="303" width="60" height="135" as="geometry">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="XWGLQ3T5ParTFF5xsZy4-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XWGLQ3T5ParTFF5xsZy4-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
