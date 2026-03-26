@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-18" value="" style="swimlane;startSize=0;strokeColor=#01bbf9;container=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="270" width="350" height="260" as="geometry">
-            <mxRectangle x="440" y="270" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="62fZEcuVHlO0WXRbgXgz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="62fZEcuVHlO0WXRbgXgz-1" target="62fZEcuVHlO0WXRbgXgz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,9 +64,6 @@
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="440" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5H7QiD2C4g63JcIbzcFb-17" value="用EMA平滑TD-error，&lt;div&gt;解决过期和降噪问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="490" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="1" vertex="1">
           <mxGeometry x="655" y="303" width="65" height="135" as="geometry">
