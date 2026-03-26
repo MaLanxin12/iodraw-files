@@ -50,18 +50,18 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="625" y="450" />
-              <mxPoint x="140" y="450" />
+              <mxPoint x="625" y="425" />
+              <mxPoint x="140" y="425" />
             </Array>
-            <mxPoint x="625" y="412.5" as="sourcePoint" />
-            <mxPoint x="140" y="391.5" as="targetPoint" />
+            <mxPoint x="625" y="387.5" as="sourcePoint" />
+            <mxPoint x="140" y="366.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-15" value="" style="swimlane;startSize=0;strokeColor=#40ccfa;" parent="1" vertex="1">
           <mxGeometry x="548" y="280" width="100" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-14" value="样本放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="285" y="469.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="283" y="425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5H7QiD2C4g63JcIbzcFb-16" value="" style="swimlane;startSize=0;container=0;strokeColor=#57d2fa;" parent="1" vertex="1">
           <mxGeometry x="655" y="303" width="65" height="135" as="geometry">
