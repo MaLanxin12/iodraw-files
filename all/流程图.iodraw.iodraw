@@ -95,7 +95,7 @@
           <mxGeometry x="410" y="288.03000000000003" width="40" height="98" as="geometry" />
         </mxCell>
         <mxCell id="XWGLQ3T5ParTFF5xsZy4-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="60" height="200" as="geometry" />
+          <mxGeometry x="330" y="280" width="60" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
