@@ -50,10 +50,10 @@
         <mxCell id="5H7QiD2C4g63JcIbzcFb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="625" y="425" />
+              <mxPoint x="630" y="425" />
               <mxPoint x="140" y="425" />
             </Array>
-            <mxPoint x="630" y="410" as="sourcePoint" />
+            <mxPoint x="640" y="400" as="sourcePoint" />
             <mxPoint x="140" y="366.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
